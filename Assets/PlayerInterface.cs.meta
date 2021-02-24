@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cd97de08f7f32b04eabe01f8abcb7d4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CarChoice: {instanceID: 0}
+  - RedCar: {fileID: 21300000, guid: 4dddd08586c490c438450967b7b46f7b, type: 3}
+  - BlueCar: {fileID: 21300000, guid: 2d700233381b9704387887c9435b783f, type: 3}
+  - BlackCar: {fileID: 21300000, guid: 93260e76429fbc14e950b5d1e3852c84, type: 3}
+  - Car: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
